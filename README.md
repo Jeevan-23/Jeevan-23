@@ -20,4 +20,4 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jeevan-23&" alt="jeevan-23" /></p>
 
-<p>![Leetcode Stats](https://leetcard.jacoblin.cool/Jeevan-23)</p>
+![Leetcode Stats](https://leetcard.jacoblin.cool/Jeevan-23)
