@@ -4,9 +4,6 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/unstb4l" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="unstb4l" height="30" width="40" /></a>
+<a href="https://twitter.com/jeevanstwt" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="unstb4l" height="30" width="40" /></a>
 </p>
 
-
-
-![Leetcode Stats](https://leetcard.jacoblin.cool/unstb4l)
